@@ -14,7 +14,8 @@ I recommend using [virtual environment](https://conda.io/docs/user-guide/tasks/m
 cd assignment(working directory)
 conda create --name myenv         # Create a virtual environment
 source activate myenv             # Activate the virtual environment
-conda install --name myenv --file myenv.txt  # Use myenv.txt to install listed packages 
+conda install --name myenv --file myenv.txt  # Use myenv.txt to install listed packages
+conda install python=3            # Install python3
 conda install jupyter             # Install jupyter
 
 # Working on the assignment for a while
