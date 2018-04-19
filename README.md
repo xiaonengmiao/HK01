@@ -1,6 +1,6 @@
 # Answers to WeMedia01 (HK) Limited Offsite Test for University Recruitment 2018
 
-> I Choosed Q3 Data Analysis, Visualization & Data Science. All the answers and code are in the file "DataAnalysisVisualizationDataScience.ipynb". To open it, run `jupyter notebook` from the working directory. If you are not familiar with it, please refer to *Setup* and *Virtual environment* below.
+> I Choosed Q3 Data Analysis, Visualization & Data Science. All the answers and code are in the file "DataAnalysisVisualizationDataScience.ipynb". To open it, run `jupyter notebook` from the working directory. If you are not familiar with it, please refer to **Setup** and **Virtual environment** below.
 
 ## Setup
 
